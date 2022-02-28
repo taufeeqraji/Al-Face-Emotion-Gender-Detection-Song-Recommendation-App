@@ -21,4 +21,10 @@ Make sure you download the following Datasets for the Project as it is a Static 
 
 [Click here to get song for Sad](https://drive.google.com/file/d/16chCr4paIn4UD4pyxY4k0tPbtkHnwlwQ/view?usp=sharing)
 
-For more reference, refer the attachments above:- Code, User Manual and Required Libraries for the Project.
+Refer the attachments above:- Code, User Manual, Sample GUI and Required Libraries for the Project.
+
+Note that in the User Manual, I have attached a short biography about myself.
+
+I hope you have enjoyed my presentation.
+
+Thank You!
